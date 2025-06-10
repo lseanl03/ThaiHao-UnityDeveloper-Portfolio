@@ -1,8 +1,8 @@
-# UnityProjects
+# Thai Hao
 
 ***
 
-## 3NDL3ZZ Base Defense
+# 3NDL3ZZ Base Defense
 
 Remaking an old game, made in Game Maker Studio, Simple endless tower defense, 1 map in original version
 

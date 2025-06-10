@@ -1,53 +1,63 @@
-# Thai Hao
+# <p align="center">👋 Hi, I'm Thai Hao</p>
+<p align="center">
+  Never stop trying, never stop learning, improve skills and develop more and better good game projects
+</p>
+<p align="center">
+  <a href="mailto:haothai1412@gmail.com">📩 haothai1412@gmail.com</a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lseanl03">🌐 GitHub</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://lseanl03.itch.io">🎮 Itch.io</a>
+</p>
 
 ***
 
-###### 3NDL3ZZ Base Defense
+### 🎮 2D - Axie Jump
 
-Remaking an old game, made in Game Maker Studio, Simple endless tower defense, 1 map in original version
+🟣 A vertical jumper game where players collect fruits, avoid enemies, and climb the leaderboard
 
-### [Play GMS Version](https://gamejolt.com/games/3ndl3zz-basedefense/325756) (Game Maker Studio)
+🔗 
+[Play on Itch.io](https://lseanl03.itch.io/axie-jump) &nbsp;
+[Source Code](https://github.com/lseanl03/Axie-Jump.git) &nbsp;
+[Demo Video](https://youtube.com/shorts/WwEmK7ugoxA)
 
-### [View Unity Version Code](https://github.com/TheCyberFlash/UnityProjects/tree/main/3NDL3ZZ%20Base%20Defense)
-
-![3BD](https://user-images.githubusercontent.com/87118878/198148292-6a344abb-b71e-4d91-987c-349166419d4e.png)
-
-
-***
-
-## Craftpix Dungeon Crawler -
-
-Dungeon Generator will automatically generate dungeon "map" or "level", then save as a prefab and run again, rinse and repeat for a collection of levels, (Useful for Development) -- Will work on a runtime Dungeon Generation soon
-
-### [View Code: Dungeon Generator](https://github.com/TheCyberFlash/UnityProjects/tree/main/CraftpixDungeonCrawler)
-
-![DungeonGenerator (9)](https://user-images.githubusercontent.com/87118878/198880239-e7aea4e5-9a1d-4ff9-99b6-2d09c306e258.png)
-
+<p>
+  <img src="https://github.com/user-attachments/assets/f9f74408-8431-4d05-bbed-48ece48a8397" width="200" />
+  <img src="https://github.com/user-attachments/assets/dda2e761-0f50-4f03-be4b-91b596bf303a" width="200" />
+  <img src="https://github.com/user-attachments/assets/3fe8e880-586e-463c-8470-8d8c21fde592" width="200" />
+  <img src="https://github.com/user-attachments/assets/0226c35f-efe1-4cd9-a54a-69fce8ba93af" width="200" />
+</p>
 
 ***
 
-## Craftpix TDS -
+### 🎮 2D - Axie Run
 
-Simple / Basic TDS like mess around project, used assets from Craftpix
+🟣 Action platformer where players control Axie to defeat enemies within a time limit
 
-### [PLAY TDS soon](#)
+🔗 
+[Play on Itch.io](https://lseanl03.itch.io/axie-jump) &nbsp;
+[Source Code](https://github.com/lseanl03/Axie-Jump.git) &nbsp;
+[Demo Video](https://youtube.com/shorts/WwEmK7ugoxA)
 
-### [View Code: TDS](https://github.com/TheCyberFlash/UnityProjects/tree/main/CraftpixTDS)
-
-![CraftpixTDS Screenshot (5)](https://user-images.githubusercontent.com/87118878/198976038-4360c284-db5a-4dcc-9d71-2e54a7f18336.png)
-
+<p>
+  <img src="https://github.com/user-attachments/assets/54391fe9-f6fe-4269-ac00-4e105b75cc88" width="450" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/296692c2-96dc-46c7-b0cf-cbab3363b034" width="450"/>
+</p>
 
 ***
 
-## Craftpix Frogger - 
+### 🎮 TCG 
 
-Simple / Basic Frogger like mess around project, used assets from Craftpix.
+🟣 A turn-based card game where players use character and skill cards to attack opponents
 
-### [PLAY Frogger](https://github.com/TheCyberFlash/UnityProjects/tree/main/ReadyToPlayWindows)
+🔗 
+[Play on Itch.io](https://lseanl03.itch.io/axie-jump) &nbsp;
+[Source Code](https://github.com/lseanl03/Axie-Jump.git) &nbsp;
+[Demo Video](https://youtube.com/shorts/WwEmK7ugoxA)
 
-### [View Code: Frogger](https://github.com/TheCyberFlash/UnityProjects/tree/main/CraftpixFrogger)
-
-![CraftpixFroggerScreenshot (8)](https://user-images.githubusercontent.com/87118878/197747840-0d5813cb-f6f3-452b-8d23-bfb70df35c32.png)
-
+<p>
+  <img src="https://github.com/user-attachments/assets/0a28dce4-544f-4382-9ac2-76c9758b119b" width="450" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/8b6298d1-0587-4834-bf09-6cc72eeb88b7" width="450"/>
+</p>
 
 ***

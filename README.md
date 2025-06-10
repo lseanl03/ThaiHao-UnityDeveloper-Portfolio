@@ -48,7 +48,7 @@
 
 ***
 
-### 🎮 TCG 
+### 🎮 2D - TCG 
 
 🟣 A turn-based card game where players use character and skill cards to attack opponents
 

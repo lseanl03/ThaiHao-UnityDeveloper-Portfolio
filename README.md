@@ -1,4 +1,4 @@
-# <p align="center">I'm Thai Hao, or call me YuiAI</p>
+# <p align="center">I'm Thai Hao</p>
 <p align="center">
   <a href="mailto:haothai1412@gmail.com">📩 haothai1412@gmail.com</a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/lseanl03">🌐 GitHub</a>&nbsp;&nbsp;&nbsp;

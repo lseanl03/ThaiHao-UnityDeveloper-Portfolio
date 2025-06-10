@@ -38,8 +38,8 @@
 [Demo Video](https://www.youtube.com/watch?v=xsHwN8hSa7c)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/54391fe9-f6fe-4269-ac00-4e105b75cc88" width="450" />
-  <img src="https://github.com/user-attachments/assets/296692c2-96dc-46c7-b0cf-cbab3363b034" width="450"/>
+  <img src="https://github.com/user-attachments/assets/54391fe9-f6fe-4269-ac00-4e105b75cc88" width="400" />
+  <img src="https://github.com/user-attachments/assets/296692c2-96dc-46c7-b0cf-cbab3363b034" width="400"/>
 </p>
 
 ***
@@ -54,8 +54,8 @@
 [Demo Video](https://www.youtube.com/watch?v=SbjC2oph1_Q)
 
 <p>
-  <img src="https://github.com/user-attachments/assets/0a28dce4-544f-4382-9ac2-76c9758b119b" width="450" />
-  <img src="https://github.com/user-attachments/assets/8b6298d1-0587-4834-bf09-6cc72eeb88b7" width="450"/>
+  <img src="https://github.com/user-attachments/assets/0a28dce4-544f-4382-9ac2-76c9758b119b" width="400" />
+  <img src="https://github.com/user-attachments/assets/8b6298d1-0587-4834-bf09-6cc72eeb88b7" width="400"/>
 </p>
 
 ***
